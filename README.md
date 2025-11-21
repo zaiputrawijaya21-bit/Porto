@@ -1,27 +1,14 @@
-[porto.html](https://github.com/user-attachments/files/23677178/porto.html)
-<!DOCTYPE html>![profil3](https://github.com/user-attachments/assets/f38739e4-e6ff-4960-9aae-7a69aafcf18d)
-
-<html lang="id" class="scroll-sm![profil3](https://github.com/user-attachments/assets/74d91afc-c5a9-4564-8921-b93a5ee334dc)
-o![profil](https://github.com/user-attachments/assets/001a91c8-f948-4f0d-98b7-4b51021e50a1)
-oth">![profil2](https://github.com/user-attachments/assets/ecbc2e11-6151-4b59-93f2-088e5e1f025f)
-
+[porto.html](https://github.com/user-attachments/files/23677328/porto.html)
+<!DOCTYPE html>
+<html lang="id" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portofolio Profesional - Putra Wijaya Zai</title>
-    <img width="1536" height="1024" alt="foto2" src="https://github.com/user-attachments/assets/5285a7a1-946a-452c-9145-fab9b6f69281" />
-
-    <script<img width="1536" height="1024" alt="foto1" src="https://github.com/user-attachments/assets/80a3e0f1-0432-49a4-8c6f-e1dec6f68601" />
- src="https://cdn.tailwind![profil2](https://github.com/user-attachments/assets/33fe4940-8507-4914-83b1-5446e6214c72)
-![profil](https://github.com/user-attachments/assets/6c94b385-024f-4be3-9769-1605b76f9c35)
-[porto.html](https://github.com/user-attachments/files/23677210/porto.html)
-<img width="1024" height="1536" alt="foto3" src="https://github.com/user-attachments/assets/7aa3f8b4-3611-48b6-b568-882fc2d14332" />
-<img width="1024" height="1536" alt="foto3" src="https://github.com/user-attachments/assets/d0958bef-e0aa-4e87-9dd4-11b1b8352a2e" />
-css.com"></script>
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqc<img width="1536" height="1024" alt="foto2" src="https://github.com/user-attachments/assets/d91db7e0-a62e-4737-9947-e32dfbc7a67d" />
-<img width="1536" height="1024" alt="foto1" src="https://github.com/user-attachments/assets/0165410e-48b2-44f9-adbc-e5f277f9b5f2" />
-WaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
